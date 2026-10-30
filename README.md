@@ -88,6 +88,7 @@ The Cubify CubeX 3D Printer Double Head Print recorded a loss of approximately *
 **Recommendation:** Examine its cost structure, pricing, discount history, and sales conditions before deciding whether to revise its pricing or sales strategy.
 
 ## Power BI Dashboard
+![Retail Profit Leakage Dashboard](Dashboard%20img.png)
 
 The interactive dashboard contains:
 
